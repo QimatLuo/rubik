@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "lib": ["DOM", "ESNext"],
+    "outDir": "${configDir}/dist"
+  },
+  "extends": ["./tsconfig.node.json"]
+}
