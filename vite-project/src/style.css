@@ -1,0 +1,11 @@
+button {
+  cursor: pointer;
+}
+
+.err {
+  background: red;
+}
+
+.pass {
+  background: green;
+}
